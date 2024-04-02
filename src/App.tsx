@@ -21,9 +21,9 @@ function App() {
         <meta name="keywords" content="개발자, 과제, 부트캠프, 프론트엔드" />
 
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="sumin practice" />
-        <meta property="og:site_name" content="sumin practice" />
-        <meta property="og:description" content="sumin practice" />
+        <meta property="og:title" content="title sumin practice" />
+        <meta property="og:site_name" content="site_name sumin practice" />
+        <meta property="og:description" content="description sumin practice" />
         <meta property="og:image" content="../public/logo192.png" />
         <meta
           property="og:url"
