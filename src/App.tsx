@@ -6,6 +6,13 @@ function App() {
     <div className="App">
       <Helmet>
         <title>sumin practice</title>
+        <meta name="description" content="프론트엔드 과제 사이트" />
+        <meta name="keywords" content="개발자, 과제, 부트캠프, 프론트엔드" />
+
+        <meta name="twitter:title" content="Twitter Title" />
+        <meta name="twitter:description" content="Twitter Description" />
+        <meta name="twitter:image" content="/public/image/IMG_5916.jpg" />
+        <meta name="twitter:card" content="summary_large_image" />
       </Helmet>
       <h1
         style={{
