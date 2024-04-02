@@ -7,7 +7,7 @@ function App() {
       <Helmet>
         <title>practice</title>
       </Helmet>
-      <div
+      <h1
         style={{
           display: "flex",
           alignItems: "center",
@@ -18,7 +18,7 @@ function App() {
         }}
       >
         김수민 과제 입니다!
-      </div>
+      </h1>
     </div>
   );
 }
