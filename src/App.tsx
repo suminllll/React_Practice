@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <Helmet>
-        <title>practice</title>
+        <title>sumin practice</title>
       </Helmet>
       <h1
         style={{
