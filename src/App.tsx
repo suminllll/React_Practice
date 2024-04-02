@@ -1,6 +1,5 @@
 import "./App.css";
 import { Helmet } from "react-helmet-async";
-//js 제거해서 전과 후를 직접 확인하기
 
 function App() {
   return (
@@ -8,7 +7,18 @@ function App() {
       <Helmet>
         <title>practice</title>
       </Helmet>
-      <button>dddd</button>
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          height: "100vh",
+          color: "green",
+          fontSize: 50,
+        }}
+      >
+        김수민 과제 입니다!
+      </div>
     </div>
   );
 }
