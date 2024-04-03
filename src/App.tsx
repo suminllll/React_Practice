@@ -26,7 +26,7 @@ function App() {
         <meta property="og:description" content="description sumin practice" />
         <meta
           property="og:image"
-          content="https://react-practice-iota-nine.vercel.app/logo192.png"
+          content="https://helpx.adobe.com/content/dam/help/en/photoshop/using/quick-actions/remove-background-before-qa1.png"
         />
         <meta
           property="og:url"
