@@ -24,7 +24,10 @@ function App() {
         <meta property="og:title" content="title sumin practice" />
         <meta property="og:site_name" content="site_name sumin practice" />
         <meta property="og:description" content="description sumin practice" />
-        <meta property="og:image" content="https://example.com/logo192.png" />
+        <meta
+          property="og:image"
+          content="https://react-practice-iota-nine.vercel.app/logo192.png"
+        />
         <meta
           property="og:url"
           content="https://react-practice-iota-nine.vercel.app/"
